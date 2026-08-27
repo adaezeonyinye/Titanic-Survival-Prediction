@@ -1,5 +1,3 @@
-# Titanic-Survival-Prediction
-Titanic Survival Prediction using Python, Pandas, Data Visualization, and Logistic Regression — a beginner data science capstone project.
 # Titanic Survival Prediction
 
 A beginner data science capstone project that explores Titanic passenger data and uses Logistic Regression to predict passenger survival.
